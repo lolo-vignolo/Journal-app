@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing types  the object should match with the snapshoot  1`] = `
+Object {
+  "login": "[Auth] Login",
+  "logout": "[Auth] Logout",
+  "noteActive": "[Note] Set active note",
+  "noteAddNew": "[Note] New Note",
+  "noteDelete": "[Note] Delete note",
+  "noteFileUrl": "[Note] Updated image url",
+  "noteLoad": "[Note] Load Note",
+  "noteLogoutCleaning": "[Note] Logout cleaning",
+  "noteUpDated": "[Note] Note updated",
+  "uiFinishLoading": "[UI] Finish loading",
+  "uiRemoveError": "[UI] Remove Error",
+  "uiSetError": "[UI] Set Error",
+  "uiStartLoading": "[UI] Start loading",
+}
+`;
